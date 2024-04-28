@@ -27,7 +27,7 @@ Image Creator：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Imagem | Steve from Minecraft with his arms up, holding a redstone powder, which shines with a red light, while also having some some red lighting aroung it which should represent the similarities of redstone and electricity. The backgroud must be dark and simple |
+| Imagem | Steve from Minecraft with his arms up, holding a redstone powder, which shines with a red light, while also having some some red lighting around it which should represent the similarities of redstone and electricity. The backgroud must be dark and simple |
 
 ## ✨ Features
 
