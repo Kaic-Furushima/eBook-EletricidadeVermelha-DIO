@@ -6,7 +6,6 @@ Projeto com o objetivo de gerar um eBook digital com as facilidades das ferramen
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [Image Creator](https://www.microsoft.com/pt-br/edge/features/image-creator)
 - [Canva](https://www.canva.com)
 
